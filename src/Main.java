@@ -56,6 +56,7 @@ public class Main {
         System.out.println("\nWhat task would you like to update? (List starts at 0.)");
         System.out.println(a);
         int updateTask = input.nextInt();
+        input.nextLine();
         System.out.println("What description would you like to write for this updated task?");
         String updatedTaskDesc = input.nextLine();
         a.set(updateTask, updatedTaskDesc);
