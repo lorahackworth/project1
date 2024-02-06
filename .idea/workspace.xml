@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ee3f192-835e-4c0a-b498-c5f09ca6717b" name="Changes" comment="update tasks not working yet">
+    <list default="true" id="6ee3f192-835e-4c0a-b498-c5f09ca6717b" name="Changes" comment="works!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +69,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707229956304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="works!">
+      <option name="closed" value="true" />
+      <created>1707245658293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707245658293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update tasks not working yet" />
-    <option name="LAST_COMMIT_MESSAGE" value="update tasks not working yet" />
+    <MESSAGE value="works!" />
+    <option name="LAST_COMMIT_MESSAGE" value="works!" />
   </component>
 </project>
